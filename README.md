@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0060-permutation-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
