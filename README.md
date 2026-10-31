@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
