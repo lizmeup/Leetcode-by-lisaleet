@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0182-duplicate-emails) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
