@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
@@ -86,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
