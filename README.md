@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
