@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
