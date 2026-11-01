@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
