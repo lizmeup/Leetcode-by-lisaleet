@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
