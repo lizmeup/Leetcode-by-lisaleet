@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
