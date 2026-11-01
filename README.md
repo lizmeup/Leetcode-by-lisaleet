@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0182-duplicate-emails) |
 ## Divide and Conquer
 |  |
