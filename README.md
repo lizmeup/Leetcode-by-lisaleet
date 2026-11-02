@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0043-multiply-strings) |
 ## Simulation
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0060-permutation-sequence) |
 ## Memoization
 |  |
