@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0016-3sum-closest) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0016-3sum-closest) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
