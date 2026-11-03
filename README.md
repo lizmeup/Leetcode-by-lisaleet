@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0093-restore-ip-addresses) |
 ## Simulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0093-restore-ip-addresses) |
 ## Bit Manipulation
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
