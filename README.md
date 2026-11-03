@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
+| [0091-decode-ways](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0091-decode-ways) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
 ## Stack
