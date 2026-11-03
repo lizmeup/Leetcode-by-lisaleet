@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0209-minimum-size-subarray-sum) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
