@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0056-merge-intervals) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
