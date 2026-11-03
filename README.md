@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0047-permutations-ii) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
