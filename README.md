@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
