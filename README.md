@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Dynamic Programming
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0141-linked-list-cycle) |
 ## Matrix
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
