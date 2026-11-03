@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0075-sort-colors) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
