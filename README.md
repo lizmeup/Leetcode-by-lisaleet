@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0079-word-search) |
 ## Linked List
