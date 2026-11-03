@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0141-linked-list-cycle) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
