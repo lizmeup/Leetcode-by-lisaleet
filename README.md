@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0130-surrounded-regions) |
+| [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0096-unique-binary-search-trees) |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -323,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
