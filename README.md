@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0130-surrounded-regions) |
+| [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
