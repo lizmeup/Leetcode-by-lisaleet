@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0415-add-strings) |
 ## Array
 |  |
