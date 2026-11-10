@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
