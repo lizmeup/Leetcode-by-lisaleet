@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
 ## Simulation
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
 ## Matrix
 |  |
 | ------- |
