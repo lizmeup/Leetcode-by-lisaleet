@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0409-longest-palindrome) |
 ## Matrix
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0367-valid-perfect-square) |
 ## Database
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0392-is-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
