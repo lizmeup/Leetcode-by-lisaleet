@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0392-is-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
