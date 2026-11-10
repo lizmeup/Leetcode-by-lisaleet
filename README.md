@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0409-longest-palindrome) |
 ## Matrix
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -302,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0075-sort-colors) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -410,4 +415,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0173-binary-search-tree-iterator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
