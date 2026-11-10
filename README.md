@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0141-linked-list-cycle) |
+| [0344-reverse-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
