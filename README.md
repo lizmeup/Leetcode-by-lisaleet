@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0303-range-sum-query-immutable) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0303-range-sum-query-immutable) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
