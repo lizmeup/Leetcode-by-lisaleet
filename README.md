@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0326-power-of-three) |
 ## Memoization
 |  |
 | ------- |
