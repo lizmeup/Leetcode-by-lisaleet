@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0075-sort-colors) |
 | [0220-contains-duplicate-iii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
 | ------- |
