@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
