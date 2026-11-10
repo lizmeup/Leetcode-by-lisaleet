@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
