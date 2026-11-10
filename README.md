@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0414-third-maximum-number) |
 ## Bucket Sort
 |  |
 | ------- |
