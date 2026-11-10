@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0367-valid-perfect-square) |
 ## Database
 |  |
 | ------- |
