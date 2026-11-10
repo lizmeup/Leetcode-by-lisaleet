@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0409-longest-palindrome) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0409-longest-palindrome) |
 ## Matrix
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
