@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0434-number-of-segments-in-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
