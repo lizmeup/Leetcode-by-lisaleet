@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0492-construct-the-rectangle) |
 ## String
 |  |
 | ------- |
