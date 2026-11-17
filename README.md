@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0130-surrounded-regions) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -466,4 +469,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0229-majority-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
