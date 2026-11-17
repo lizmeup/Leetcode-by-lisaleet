@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0130-surrounded-regions) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0279-perfect-squares) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0441-arranging-coins) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lizmeup/Leetcode-by-lisaleet/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Database
 |  |
 | ------- |
